@@ -1,5 +1,5 @@
 # Product Landing Page
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/raymond96/pen/oNjGOjv](https://codepen.io/raymond96/pen/oNjGOjv).
+Visit the page here: https://rahulraymond.github.io/Landingpage/
 
 
